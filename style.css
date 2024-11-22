@@ -1,0 +1,455 @@
+   .navbar {
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        /* padding: 1rem 2rem; */
+        background-color: #fff;
+        /* border-bottom: 1px solid #ddd; */
+        /* border: 1px solid black;
+        padding: 4px; */
+     
+    }
+    .logo{
+        width: 5%;
+        margin-left: 300px;
+        margin-top: -20px;
+    }
+
+    .nav-links {
+        list-style: none;
+        display: flex;
+        gap: 40px;
+        margin-top: 50px;
+    }
+
+    .nav-links a {
+        text-decoration: none;
+        color: black;
+        /* margin-left: 10px; */
+        /* border: 2px solid rgb(251, 249, 249);
+        border-radius: 6px; */
+        padding: 5px;
+        font-size: 18px;
+        margin-top: 10px;
+    }
+
+    .nav-links a :hover {
+        background-color: rgba(201, 147, 214, 0.892);
+        color: black;
+        
+    }
+
+    .about {
+        margin-left: 570px;
+        /* margin-top: 1px; */
+    }
+
+    .h1 {
+        font-size: 50px;
+    }
+
+    .subscribe-btn {
+        font-size: 25px;
+        margin-top: 35px;
+        margin-left: 15px;
+        border-radius: 30px;
+        background-color: rgb(170, 225, 172);
+        
+    }
+    .subscribe-btn:hover{
+        background-color: aqua;
+    }
+
+    .p1 {
+        margin-left: 8px;
+        font-size: 20px;
+        margin-top: -24px;
+    }
+
+    .heading1 {
+        margin-top: -640px;
+        margin-left: 945px;
+    }
+
+    .apple img {
+        margin-top: -100px;
+        width: 50px;
+        height: 50px;
+        border-radius: 50%;
+        margin-left: 10px;
+    }
+
+    .apple {
+        margin-left: 200px;
+        margin-top: -10px;
+    }
+
+    /* .apple1{
+      width: 50px;
+      height: 50px;
+      margin-left: 210px;
+      margin-top: -150px;
+      border-radius: 50%;
+    }
+    .playstore{
+        width: 50px;
+      height: 50px;
+      margin-left: 10px;
+      border-radius: 50%;
+      margin-top: -150px;
+    } */
+
+    .block {
+        background-color: rgba(245, 212, 124, 0.892);
+        width: 96%;
+        height: 690px;
+        border: 2px solid rgba(245, 212, 124, 0.892);
+        margin-top: 280px;
+        margin-left: 30px;
+
+    }
+
+    .milk {
+        height: 780px;
+        margin-left: 1000px;
+        margin-top: -1px;
+    }
+
+    .yourdairy {
+        margin-top: -730px;
+        margin-left: 120px;
+        font-size: 60px;
+    }
+
+    .para {
+        margin-left: 130px;
+        font-size: 20px;
+        margin-top: -15px;
+    }
+
+    .multiproduct {
+        width: 550px;
+        border-radius: 50%;
+    }
+
+
+    .cloud img {
+        width: 350px;
+        margin-top: -1000px;
+        margin-left: 900px;
+
+    }
+
+    .cloud {
+        margin-top: -550px;
+    }
+
+    .block2 {
+        background-color: rgb(252, 254, 253);
+        border: 2px solid rgb(252, 253, 252);
+        border-radius: 15px;
+        width: 80%;
+        height: 155px;
+        margin-top: 139px;
+        margin-left: 150px;
+        box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3);
+    }
+
+    .amazon {
+        width: 16%;
+        margin-left: 147px;
+        margin-top: 26px;
+    }
+
+    .bigbasket {
+        width: 17%;
+        margin-left: 50px;
+        margin-top: -6px;
+        position: absolute;
+
+    }
+
+    .milkbasket {
+        width: 30%;
+        margin-left: 350px;
+    }
+
+    .service {
+        margin-left: 500px;
+        margin-top: -6px;
+        position: absolute;
+    }
+
+    .block3 {
+        background-color: rgba(215, 195, 220, 0.892);
+        border: 2px solid rgba(215, 195, 220, 0.892);
+        width: 54%;
+        height: 650px;
+        margin-top: 20px;
+        margin-left: 30px;
+        border-radius: 20px;
+        box-shadow: 0 4px 8px rgba(0, 0, 0, 0.4);
+
+    }
+
+    /* .a2milk {
+        width: 80%;
+        margin-left: 820px;
+        margin-top: -60px;
+    } */
+
+    .unitymilk {
+        margin-top: -10px;
+
+    }
+
+    .unitymilk img {
+        width: 40%;
+        margin-left: 870px;
+        border-radius: 80px;
+    }
+
+    .purity {
+        margin-top: -750px;
+        margin-left: 30px;
+        font-size: 50px;
+    }
+
+    .flowmilk {
+        width: 810px;
+        margin-top: 260px;
+        border-radius: 20px;
+
+    }
+
+    .para3 {
+        margin-top: -600px;
+        font-size: 22px;
+        margin-left: 20px;
+    }
+
+    .inject {
+        width: 50%;
+        margin-top: -170px;
+        margin-left: 420px;
+        opacity: 70%;
+    }
+
+    .block4 {
+        background-color: #fefbfb;
+        border: 2px solid white;
+        height: 50px;
+        width: 80%;
+        box-shadow: 0 4px 8px rgba(0, 0, 0, 0.4);
+        margin-top: 60px;
+        margin-left: 240px;
+        border-radius: 13px;
+    }
+
+    .types {
+        margin-left: 350px;
+        position: absolute;
+
+    }
+
+    .a2milk img {
+        width: 45%;
+        margin-left: -255px;
+    }
+
+    .a2bmilk img {
+        width: 45%;
+        margin-top: -590px;
+        margin-left: 220px;
+    }
+
+    .a2cowmilk img {
+        width: 50%;
+        margin-top: -555px;
+        margin-left: 700px;
+
+    }
+
+    .naturalcurd {
+        margin-top: 50px;
+    }
+
+    .naturalcurd img {
+        width: 40%;
+        margin-left: -240px;
+
+    }
+
+    .cowmilk img {
+        width: 680px;
+        margin-top: -640px;
+        margin-left: 170px;
+    }
+
+    .skimmilk img {
+        width: 45%;
+        margin-left: 720px;
+        margin-top: -600px;
+    }
+
+    .skimmilk {
+        margin-top: -90px;
+    }
+
+    .bufbutter img {
+        width: 35%;
+        margin-left: -350px;
+        margin-top: -66px;
+        position: absolute;
+    }
+
+    .cowbutter {
+        margin-left: 40px;
+    }
+
+    .cowbutter img {
+        width: 47%;
+        margin-top: -64px;
+    }
+
+    .bufcurd img {
+        width: 40%;
+        margin-left: 466px;
+        margin-top: -750px;
+    }
+
+    .bufcurd {
+        margin-top: -90px
+    }
+
+    .cowcurd img {
+        width: 40%;
+        margin-left: 840px;
+        margin-top: -650px;
+
+    }
+
+    .paneer img {
+        width: 60%;
+        margin-left: 170px;
+        margin-top: -136px;
+    }
+
+    .block5 {
+        background-color: rgba(208, 231, 195, 0.3);
+        border: 2px solid rgba(208, 231, 195, 0.3);
+        border-radius: 50px;
+        width: 60%;
+        height: 700px;
+        margin-top: 2100px;
+        margin-left: 565px;
+        box-shadow: 0 4px 8px rgba(0, 0, 0, 0.4);
+    }
+
+    .formula {
+        width: 750px;
+        opacity: 8%;
+        margin-top: -5px;
+        margin-left: 65px;
+    }
+
+    .bone img {
+        width: 75%;
+        margin-left: -630px;
+        /* margin-top: -1500px; */
+    }
+
+    .bone {
+        margin-top: -500px;
+    }
+
+    .content {
+        font-size: 30px;
+        margin-left: 40px;
+        margin-top: -665px;
+
+    }
+
+
+    .screen img {
+        width: 100%;
+        margin-left: 1px;
+
+    }
+
+    .screen {
+        margin-top: -500px;
+    }
+
+    .poor {
+        font-size: 20px;
+        margin-left: -267px;
+        margin-top: -138px;
+    }
+
+    .cloudleft img {
+        width: 23%;
+        margin-top: -400px;
+        margin-left: -300px;
+    }
+
+    .high {
+        font-size: 20px;
+        margin-top: -280px;
+        margin-left: -370px;
+    }
+
+    .cloudright img {
+        width: 45%;
+
+        margin-left: -480px;
+    }
+
+    .cloudright {
+        margin-top: -450px;
+    }
+
+    .glassmi img {
+        width: 71%;
+        margin-left: 480px;
+        margin-top: -1px;
+    }
+
+    .block6 {
+        background-color: rgba(209, 211, 212, 0.892);
+        border: 2px solid rgba(209, 211, 212, 0.892);
+        width: 100%;
+        height: 800px;
+        margin-top: 100px;
+    }
+
+    .cloud2 img {
+        width: 25%;
+        /* margin-left: 550px; */
+
+    }
+
+    .cloud2 {
+        margin-top: -820px;
+        margin-left: 50px;
+
+    }
+
+    .care {
+        font-size: 80px;
+        margin-left: 70px;
+        margin-top: 20px;
+    }
+
+    .carep {
+        font-size: 20px;
+        margin-left: 80px;
+        margin-top: -40px;
+    }
+    footer{
+        background-color: rgb(118, 116, 116);
+        text-align: center;
+        padding: 1px;
+        margin-top: 20px;
+
+    }
